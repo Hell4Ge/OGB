@@ -1,0 +1,10 @@
+c:\users\dell\documents\visual studio 2015\Projects\OGB\OGB\bin\Debug\OGB.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\OGB\OGB\bin\Debug\OGB.exe
+c:\users\dell\documents\visual studio 2015\Projects\OGB\OGB\bin\Debug\OGB.pdb
+c:\users\dell\documents\visual studio 2015\Projects\OGB\OGB\obj\Debug\OGB.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2015\Projects\OGB\OGB\obj\Debug\OGB.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2015\Projects\OGB\OGB\obj\Debug\OGB.exe
+c:\users\dell\documents\visual studio 2015\Projects\OGB\OGB\obj\Debug\OGB.pdb
+C:\Users\Dell\documents\visual studio 2015\Projects\OGB\OGB\obj\Debug\OGB.LoginDialog.resources
+C:\Users\Dell\documents\visual studio 2015\Projects\OGB\OGB\obj\Debug\OGB.OGBForm.resources
+C:\Users\Dell\documents\visual studio 2015\Projects\OGB\OGB\obj\Debug\OGB.adjuster.resources
